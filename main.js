@@ -18,7 +18,7 @@ $(function() {
 		"Your objective is to travel to @locale and @mission. The target is @behavior @target. However, be careful because @complication. @theme.",
 		"Your mission is to protect @behavior @target on @locale from a hostile @target @reason. You may encounter resistance in the form of @obstacle. @theme.",
 		"Your mission is to infiltrate @behavior @group on @locale and establish a contact. You may encounter difficulty in the form of @obstacle. @theme.",
-		"Your assignment is to travel to @locale and establish a cover identity. You are then to @undercover. The target is @behavior @target. You must not arouse suspicion in any way.",
+		"Your mission is to travel to @locale and interrogate @behavior @target. For @asset and be careful because @complication. @theme",
         ],
         locale: [
 		"Alderaan",
@@ -54,15 +54,7 @@ $(function() {
 		"sabotage the target's operations",
 		"surveil the target"
         ],
-	undercover: [
-		"cultivate friendly relations with the target, who is a suspected intelligence source for the Republic",
-		"cultivate friendly relations with the target, who is a known intelligence source for local law enforcement",
-		"cultivate friendly relations with the target, who is a known intelligence source for local criminal organizations",
-		"assist the target in fabricating their own demise",
-		"identify and eradicate suspected surveillance on the target",
-		"debrief the target for intelligence on the local underworld events",
-        ],
-        behavior: [
+	behavior: [
 	        "an abrasive",
 		"an absent-minded",
 		"an active",
@@ -293,7 +285,7 @@ $(function() {
 		"who is planning a terrorist attack"
         ],
         theme: [
-		"Secrecy is paramount",
+		"",
 		"Get the job done",
 		"Speed is of the essence",
 		"You cannot be detected",
