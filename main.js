@@ -18,7 +18,7 @@ $(function() {
 		"Your objective is to travel to @locale and @mission. The target is @behavior @target. However, be careful because @complication. @theme.",
 		"Your mission is to protect @behavior @target on @locale from a hostile @target @reason. You may encounter resistance in the form of @obstacle. @theme.",
 		"Your mission is to infiltrate @behavior @group on @locale and establish a contact. You may encounter difficulty in the form of @obstacle. @theme.",
-		"Your mission is to travel to @locale @mission @behavior @target. For @asset and be careful because @complication. @theme",
+		"Your mission is to travel to @locale and @mission. The target is @behavior @target. For @asset and be careful because @complication. @theme",
         ],
         locale: [
 		"Alderaan",
@@ -42,17 +42,15 @@ $(function() {
 		"Zakuul"
         ],
         mission: [
-		"assassinate the target",
-		"blackmail the target",
-		"collect intelligence from a source",
-		"extract the target",
-		"implicate the target in a crime",
+		"eliminate the target",
+		"subjugate a spice operation",
+		"capture the target",
+		"arrest the target",
+		"from a blockade on the target's home",
 		"investigate the target",
 		"kidnap the target for interrogation",
-		"plant compromising evidence",
-		"plant surveillance on the target",
 		"sabotage the target's operations",
-		"surveil the target"
+		"protect a VIP",
         ],
 	behavior: [
 	        "an abrasive",
