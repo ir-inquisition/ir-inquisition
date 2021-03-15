@@ -2,7 +2,7 @@ $(function() {
     //Populate using an object literal
     WTF.init({
         heading: [
-            "[[ IMPERIAL INTELLIGENCE // ACCESSING DATABASE... ]]<br><br>[[ AUTHORIZATION ACKNOWLEDGED ]]"
+            "[[ IMPERIAL INQUISITION // ACCESSING DATABASE... ]]<br><br>[[ AUTHORIZATION ACKNOWLEDGED ]]"
         ],
         response: [
            "[[ RETRIEVE NEXT MISSION ASSIGNMENT ]]"
