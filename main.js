@@ -286,7 +286,6 @@ $(function() {
 		"",
 		"Get the job done",
 		"Speed is of the essence",
-		"You cannot be detected",
 		"Leave no witnesses",
 		"No collateral damage is allowed",
 		"Make an example of them",
