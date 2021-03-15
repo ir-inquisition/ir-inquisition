@@ -238,7 +238,7 @@ $(function() {
 		"politician's staff",
 		"small gang",
 		"smuggling ring",
-		"heretics"
+		"heretics",
         ],
         complication: [
 		"there's a bounty hunter on the target's trail",
