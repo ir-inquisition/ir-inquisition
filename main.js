@@ -179,9 +179,9 @@ $(function() {
 		"a vindictive"
         ],
         target: [
-		"academic",
+		"deserter",
 		"ambassador",
-		"archaeologist",
+		"rogue sith",
 		"art collector",
 		"artist",
 		"biologist",
@@ -192,8 +192,8 @@ $(function() {
 		"diplomat",
 		"exporter of fine textiles",
 		"exporter of luxury goods",
-		"force-user",
-		"geologist",
+		"jedi",
+		"heretic",
 		"grifter",
 		"high-level corporate executive",
 		"hutt",
@@ -290,7 +290,7 @@ $(function() {
 		"You cannot be detected",
 		"Leave no witnesses",
 		"No collateral damage is allowed",
-		"Imperial Intelligence's involvement must remain undetected"
+		"Make an example of them"
         ]
     });
  
