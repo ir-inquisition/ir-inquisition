@@ -1,7 +1,11 @@
+
 $(function() {
-    //Populate using an object literal
-    WTF.init({
-        heading: [
+    
+	//Populate using an object literal
+    
+	WTF.init({
+        
+		heading: [
             "[[ IMPERIAL INQUISITION // ACCESSING DATABASE... ]]<br><br>[[ AUTHORIZATION ACKNOWLEDGED ]]"
         ],
         response: [
