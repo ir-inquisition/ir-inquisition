@@ -237,7 +237,7 @@ $(function() {
 		"pirate encampment",
 		"politician's staff",
 		"small gang",
-		"smuggling ring"
+		"smuggling ring",
 		"heretics"
         ],
         complication: [
