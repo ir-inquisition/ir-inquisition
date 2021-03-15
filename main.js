@@ -299,7 +299,7 @@ $(function() {
 		"You cannot be detected",
 		"Leave no witnesses",
 		"No collateral damage is allowed",
-		"Make an example of them"
+		"Make an example of them",
 		"Send a message"
         ]
     });
