@@ -288,8 +288,8 @@ $(function() {
 		"who plans to kidnap the target",
 		"who intends to assassinate the target",
 		"who is the target's creditor",
-		"who suspects the target is an Imperial contact"
-		"who wants to overthrow the Empire"
+		"who suspects the target is an Imperial contact",
+		"who wants to overthrow the Empire",
 		"who is planning a terrorist attack"
         ],
         theme: [
