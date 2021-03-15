@@ -259,7 +259,7 @@ $(function() {
 		"information revealing Republic movements",
 		"intel regarding a Republic supply cache",
 		"intel regarding heretical cults"
-		"intel regarding other heretics"
+		"intel regarding other heretics",
 		"intel regarding a criminal organization's supply cache",
 		"intel pertaining to the identity of a spy",
 		"the identity of a traitor",
