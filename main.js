@@ -18,8 +18,7 @@ $(function() {
 		"Your objective is to travel to @locale and @mission. The target is @behavior @target. However, be careful because @complication. @theme.",
 		"Your mission is to protect @behavior @target on @locale from a hostile @target @reason. You may encounter resistance in the form of @obstacle. @theme.",
 		"Your mission is to infiltrate @behavior @group on @locale and establish a contact. You may encounter difficulty in the form of @obstacle. @theme.",
-		"Your mission is to travel to @locale and capture @behavior @target for interrogation. Be careful due to @complication. @themre.",
-		"Your mission is to subjugate a @group on @locale and @mission
+		"Your mission is to travel to @locale and capture @behavior @target for interrogation. Be careful due to @complication. @theme.",
         ],
         locale: [
 		"Alderaan",
@@ -254,7 +253,7 @@ $(function() {
 		"intel pertaining to the identity of a spy",
 		"the identity of a traitor",
 		"supplies",
-		"blackmail material"
+		"blackmail material",
         ],
         obstacle: [
 		"wildlife",
@@ -267,7 +266,7 @@ $(function() {
 		"a Republic patrol",
 		"travel delays",
 		"poorly trained guards",
-		"a rioting populace"
+		"a rioting populace",
         ],
         reason: [
 		"who is out for revenge",
@@ -280,7 +279,7 @@ $(function() {
 		"who is the target's creditor",
 		"who suspects the target is an Imperial contact",
 		"who wants to overthrow the Empire",
-		"who is planning a terrorist attack"
+		"who is planning a terrorist attack",
         ],
         theme: [
 		"",
@@ -289,7 +288,7 @@ $(function() {
 		"Leave no witnesses",
 		"No collateral damage is allowed",
 		"Make an example of them",
-		"Send a message"
+		"Send a message",
         ]
     });
  
