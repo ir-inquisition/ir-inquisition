@@ -18,7 +18,7 @@ $(function() {
 		"Your objective is to travel to @locale and @mission. The target is @behavior @target. However, be careful because @complication. @theme.",
 		"Your mission is to protect @behavior @target on @locale from a hostile @target @reason. You may encounter resistance in the form of @obstacle. @theme.",
 		"Your mission is to infiltrate @behavior @group on @locale and establish a contact. You may encounter difficulty in the form of @obstacle. @theme.",
-		"Your mission is to travel to @locale and interrogate @behavior @target. For @asset and be careful because @complication. @theme",
+		"Your mission is to travel to @locale @mission @behavior @target. For @asset and be careful because @complication. @theme",
         ],
         locale: [
 		"Alderaan",
