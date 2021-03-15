@@ -18,6 +18,8 @@ $(function() {
 		"Your objective is to travel to @locale and @mission. The target is @behavior @target. However, be careful because @complication. @theme.",
 		"Your mission is to protect @behavior @target on @locale from a hostile @target @reason. You may encounter resistance in the form of @obstacle. @theme.",
 		"Your mission is to infiltrate @behavior @group on @locale and establish a contact. You may encounter difficulty in the form of @obstacle. @theme.",
+		"Your mission is to travel to @locale and capture @behavior @target for interrogation. Be careful due to @complication. @themre.",
+		"Your mission is to subjugate a @group on @locale and @mission
         ],
         locale: [
 		"Alderaan",
@@ -45,11 +47,10 @@ $(function() {
 		"subjugate a spice operation",
 		"capture the target",
 		"arrest the target",
-		"from a blockade on the target's home",
 		"investigate the target",
 		"kidnap the target for interrogation",
 		"sabotage the target's operations",
-		"protect a VIP",
+		"protect the target",
         ],
 	behavior: [
 	        "an abrasive",
